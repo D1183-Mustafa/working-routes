@@ -1,4 +1,6 @@
 .footer {
   height: 30px;
   color: brown;
+  background-color: blue;
+  height: 10vh;
 }
